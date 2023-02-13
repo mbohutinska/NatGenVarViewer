@@ -6,15 +6,30 @@ This pipeline allows to screen any set of genes to explore natural genetic varia
 ### STEP 1. visualization of allele frequencies 
 of single nucleotide polymorphisms within a given set of genes across 74 A. arenosa populations
 
+Example output for one gene, population sorted by altitude:
+![image](https://user-images.githubusercontent.com/40301863/218489804-db5cb2c6-98d6-434c-8e0d-d094d848f902.png)
+
+
+
 ### STEP 2. simple allele frequency difference-based selection scan 
 across given set of genes
+
+Example result of the output list of outlier genes which are candidates fr positive selection:
+![image](https://user-images.githubusercontent.com/40301863/218490352-2783be8c-352c-4f10-b62a-f4dd5b2f690e.png)
+
 
 ### STEP 3. visualization of outlier genes and SNPs 
 identified in STEP 2
 
+Example visualization of candidate SNPs, differentiated between high and low altitude populations: 
+![image](https://user-images.githubusercontent.com/40301863/218491704-d6843f0b-19da-4a3a-af98-7bce0476ccd5.png)
+
+
+
+
 All the steps are well described in the script thePipeline.R.
 
-Note that you can also only run STEP 1.
+Note that for a mere exploration you can also only run STEP 1.
 
 
 ## Instructions: 
