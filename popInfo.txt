@@ -1,0 +1,75 @@
+pop	species	Lineage	ploidy	pop_name	state	Nind/pop	data_source	AA_code	Bedrock	Altitude	lat	lon
+BAB	AA	WCarpathian	2	Baba	SK	12	Bohutinska et al 2021	AA208	calcareous	844	49.043514	20.180772
+BAL	AA	SCarpathian	4	Lacul Balea	RO	8	Bohutinska et al 2021	AA065	siliceous	2269	45.602	24.62263889
+BDO	AA	Pannonian	2	Budaors	HU	8	unpubl. Filip - mixedploidy	AA034	calcareous	252	47.458	18.92477778
+BEL	AA	Dinaric	2	Belecgrad	HR	8	Monnahan et al 2019	AA106	calcareous	550	46.16167	16.115
+BGS	AA	Ruderal-Alpine admix	4	Berchtesgaden	D	8	Monnahan et al 2019	AA350	NA	570	47.62806	13.00167
+BIH	AA	Dinaric	2	Bihac	BiH	8	Monnahan et al 2019	AA130	calcareous	217	44.88181	15.89882
+BOR	AA	Hercynian	4	Borovsko	CZ	8	Konecna et al 2021	AA358	serpentine	416	49.6838164	15.1332558
+BRD	AA	Hercynian	4	Brdatka	CZ	5	Monnahan et al 2019	AA032	siliceous	350	50.04967	13.89081
+BRE	AA	Hercynian	4	Breznik	CZ	8	unpubl. Filip	AL90	siliceous	NA	49.1610439	16.1702283
+BUD	AA	SCarpathian_2x	2	Brusturet	RO	8	unpubl. Filip - mixedploidy	AA332	calcareous	1013	45.467007	25.227617
+CAR	AA	ECarpathian	4	Carlibaba	RO	8	Bohutinska et al 2021	AA075	siliceous	981	47.57594444	25.07711111
+CHO	AA	Swabian	4	Chokier	B	8	Monnahan et al 2019	AA203	calcareous	103	50.59298	5.44383
+DRA	AA	SCarpathian	4	Dambiovicioara	RO	8	Monnahan et al 2019	AA067	calcareous	858	45.44164	25.22394
+FOJ	AA	Dinaric	2	Fojnica	BiH	8	Monnahan et al 2019	AA127	siliceous	754	43.97502	17.82446
+FUG	AA	Hercynian	4	Fuglau	AT	8	Konecna et al 2021	AA360	siliceous	436	48.6314972	15.5572367
+GOR	AA	ECarpathian_2x	2	Gornjak	SRB	8	Monnahan et al 2019	AA123	calcareous	184	44.26528	21.54271
+GUL	AA	Alpine	4	Gulsen	AT	19	Monnahan et al 2019 + Konecna et al. 2021	GU+AA149	serpentine	628	47.281679	14.927647
+HAR	AA	Hercynian	4	Hardegg	AT	2	Monnahan et al 2019	AA476	NA	400	48.85166	15.85833
+HLI	AA	WCarpathian	2	Hlinska dolina	SK	2	Novikova et al 2016	AA477	siliceous	1650	49.17	20.03
+HMC	AA	WCarpathian	2	Harmanec	SK	4	Novikova et al 2016	AA433	calcareous	700	48.82	19.02
+HNE	AA	Pannonian	2	Hotnianske Nemce	SK	7	Monnahan et al 2019	AA347	siliceous	280	48.26694	19
+HNI	AA	WCarpathian-ECarpathian mix	2	Hnilcik	SK	4	Monnahan et al 2019	AA346	siliceous	836	48.8775	20.5275
+HOC	AA	Alpine	4	Hochlantsch	AT	8	Monnahan et al 2019	AA338	siliceous	545	47.37	15.38667
+HRA	AA	WCarpathian	4	Hranovnica	SK	13	Bohutinska et al 2021	AA171	siliceous	720	49.00716	20.286407
+HRN	AA	Ruderal	4	Harnosand	S	6	Novikova et al 2016	AA478	NA	5	62.6	18.03
+INE	AA	ECarpathian	4	Ineu	RO	7	Bohutinska et al 2021	AA298+AA299	siliceous	2017	47.52734	24.88062
+ING	AA	Alpine	4	Ingeringgraben	AT	8	Konecna et al 2021	AA255	siliceous	950	47.2840589	14.6815483
+KAM	AA	WCarpathian	4	Kamenica	SK	8	unpubl. Filip - mixedploidy	AA235	calcareous	633	49.210747	20.928184
+KAS	AA	Alpine	4	Kasparstein	AT	8	Monnahan et al 2019	AA339	calcareous	660	46.68833	14.87167
+KLE	AA	Ruderal	4	Kletno	PL	9	Preite et al. 2019	AA479	metalliferous	750	50.2440833	16.848417
+KOS	AA	Alpine	4	Kosslbach	AT	7	Monnahan et al 2019	AA340	calcareous	467	47.74694	13.68972
+KOW	AA	Ruderal	4	Kowary	PL	8	Monnahan et al 2019	AA480	NA	670	50.763153	15.8439
+KRM	AA	Baltic	2	Kremenets	UA	8	unpubl. Filip	AA394	calcareous	320	50.118939	25.739772
+KZL	AA	Pannonian	2	Kesztolc	HU	5	Monnahan et al 2019	AA348	calcareous	330	47.72444	18.77917
+LAC	AA	SCarpathian	4	Lacul Capra	RO	8	Monnahan et al 2019	AA222	siliceous	2092	45.59535	24.63458
+MIA	AA	Ruderal-WCarp mix	4	Miastecko Slaskie	PL	9	Preite et al. 2019	AA485	metalliferous	300	50.5030833	18.93816
+MIE	AA	Baltic	2	Miedzyzdroje	PL	11	Monnahan et al 2019	AA197	siliceous	5	53.92109	53.92109
+OPP	AA	Alpine	4	Oppenberg	AT	8	Konecna et al 2021	AA397	serpentine	1750	47.46403	14.23989
+PAD	AA	ECarpathian_2x	2	Parva	RO	9	unpubl. Filip - mixedploidy	AA220	siliceous	545	47.402365	24.546105
+PAT	AA	ECarpathian	4	Parva	RO	7	unpubl. Filip - mixedploidy	AA220	siliceous	531	47.40244	24.5459
+PER	AA	Alpine	4	Pernegg	AT	8	Konecna et al 2021	AA430	serpentine	540	47.35512	15.33697
+PHD	AA	WCarpathian	2	Prielom Hornadu	SK	8	unpubl. Filip - mixedploidy	AA372	calcareous	550	48.96228204	20.40193797
+PHT	AA	WCarpathian	4	Prielom Hornadu	SK	8	unpubl. Filip - mixedploidy	AA372	calcareous	540	48.95281702	20.41887604
+PRE	AA	Baltic	2	Preila	LT	8	Monnahan et al 2019	AA199	siliceous	1	55.37821	21.03231
+RFT	AA	Swabian	4	Reiftal	D	11	Monnahan et al 2019	AA487	calcareous	790	48.10104	9.049581
+RZA	AA	ECarpathian_2x	2	Retezat	RO	9	Monnahan et al 2019	AA328	siliceous	850	45.37778	22.75833
+SCH	AA	Alpine	4	Schiesseck	AT	7	Monnahan et al 2019	AA148 = AA253	siliceous	2240	47.27767	14.3219
+SNO	AA	WCarpathian	2	Strecno	SK	6	Monnahan et al 2019	AA025	calcareous	390	49.17417	18.86167
+SPI	AA	WCarpathian	4	Spis_Drevenik	SK	13	Monnahan et al 2019	AA119	calcareous	550	48.98889	20.775
+STE	AA	Ruderal	4	Stenszew	PL	8	Monnahan et al 2019	AA356	NA	80	52.28028	16.70944
+STG	AA	Hercynian	4	Steinegg	AT	8	Konecna et al 2021	AA361	serpentine	415	48.62993	15.542567
+SUB	AA	WCarpathian	2	Suchá_Belá	SK	17	Bohutinska et al 2021	AA016	calcareous	600	48.96030556	20.38327778
+SWA	AA	Swabian	4	Swabia_Grindel_Stiege	D	10	Monnahan et al 2019	AA498	calcareous	700	48.44784	9.422422
+SWJ	AA	Ruderal	4	Swinoujscie	PL	3	unpubl. Levi	AA490	NA	5	53.897702	14.298695
+SZI	AA	Pannonian	2	Szigliget	HU	5	Monnahan et al 2019	AA349	siliceous	130	46.80667	17.43444
+TBG	AA	Ruderal	4	Triberg	D	6	Monnahan et al 2019	AA353	NA	640	48.13972	8.23667
+TIS	AA	SCarpathian	4	Timisu de Sus	RO	8	Bohutinska et al 2021	AA330	calcareous	796.6	45.569999	25.608265
+TKO	AA	WCarpathian	4	Tri Kopy	SK	8	Monnahan et al 2019	AA168	siliceous	1783	49.20451	19.7352
+TRD	AA	WCarpathian	2	Tristar 2x	SK	5	Monnahan et al 2019	AA170	calcareous	1380	49.251596	20.206285
+TRE	AA	WCarpathian	4	Trencin	SK	8	Monnahan et al 2019	AA310	calcareous	280	48.89417	18.04472
+TRT	AA	WCarpathian	4	Tristar 4x	SK	9	Monnahan et al 2019	AA170	calcareous	1700	49.24932	20.20498
+TZI	AA	SCarpathian	4	Cheile Turzii	RO	10	Monnahan et al 2019	AA081	calcareous	511	46.56667	23.67417
+VEL	AA	WCarpathian	2	Velicka dolina	SK	9	Monnahan et al 2019	AA084	siliceous	1823	49.162	20.15419
+VID	AA	SCarpathian_2x	2	Vidraru	RO	8	Monnahan et al 2019	AA066	siliceous	900	45.36392	24.63756
+VLA	AA	Hercynian	4	Vlastejovice	CZ	8	Konecna et al 2021	AA359	siliceous	345	49.7349631	15.1748464
+VOR	AA	Alpine	4	Vorberg	AT	8	Konecna et al 2021	AA398	siliceous	1010	47.49876	14.16964
+VYR	AA	Ruderal	4	Vyritsa (St Petersburgh)	RUS	8	unpubl. Filip	AA216	NA	100	59.41427	30.34568
+WEK	AA	Hercynian	4	Weissenkirchen	AT	8	Monnahan et al 2019	AA286	siliceous	359	48.405022	15.472906
+WIL	AA	Alpine	4	Wildsee	AT	8	Bohutinska et al 2021	AA300	siliceous	2117	47.3256	14.23038
+WUL	AA	Ruderal	4	Wulmeringhausen	D	8	unpubl. Lara's pilot (Ute Kramer)	AA497	metalliferous	290	51.308	8.487028
+ZAP	AA	WCarpathian	4	Zakopane	PL	8	Monnahan et al 2019	AA418	calcareous	915	49.278343	19.96706
+ZEP	AA	WCarpathian	2	Zelené_pleso	SK	13	Bohutinska et al 2021	AA090	siliceous	1625	49.20652778	20.21505556
+ZID	AA	Dinaric	2	Zidani Most-Gracnica	SLO	8	unpubl. Filip - mixedploidy	AA427+AA428	calcareous	303	46.10676	15.30565
+ZIT	AA	Alpine-Dinaric admix	4	Zidani Most-Gracnica	SLO	8	unpubl. Filip - mixedploidy	AA427+AA428	calcareous	360	46.094332	15.343606
