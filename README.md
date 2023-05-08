@@ -1,7 +1,11 @@
 # NatGenVarViewer
 ## The natural genetic variability viewer
+## by Majda Bohutinska
 
-This pipeline allows to screen any set of genes to explore natural genetic variability in these genes in a given species. It is primarily designed to screen for natural variability in Arabidopsis arenosa, which is ecologically diverse species of Arabidopsis. The pipeline consists of three steps:
+This pipeline allows to screen any set of genes to explore natural genetic variability in these genes in a given species. It is primarily designed to screen for natural variability in Arabidopsis arenosa, which is ecologically diverse species of Arabidopsis, but it can be easily modified for any other species. You can either use analysis of pre-selected candidate genes, implemented in thePipeline.R script, or a genome-wide selection scan, implemented in the thePipelineGenomeScan.R script. 
+
+## A. analysis of candidate gene list, thePipeline.R
+The pipeline consists of three steps:
 
 ### STEP 1. visualization of allele frequencies 
 of single nucleotide polymorphisms within a given set of genes across 74 A. arenosa populations
@@ -42,6 +46,14 @@ Note that for a mere exploration you can also only run STEP 1.
 
 
 
+## B. genome-wide selection scan, thePipelineGenomeScan.R
+
+- Consists of two steps, very to candidate gene approach above
+
+#STEP 4: genome scan for excess allele frequency differentiation
+#STEP 5: visualization of candidate genes and SNPs
+
+- input data are the same as for part A, with exception of a single file called WGDataAF.txt. You can download the total table from my account on Metacentrum /storage/pruhonice1-ibot/home/holcovam/ScanTools/VCF_arenosa613.merged.annotated_DP4.M0.3/WGDataAF.txt (ecolgen team & associates) or contact me through e-mail 
 
 
 
