@@ -48,12 +48,17 @@ Note that for a mere exploration you can also only run STEP 1.
 
 ## B. genome-wide selection scan, thePipelineGenomeScan.R
 
-- Consists of two steps, very to candidate gene approach above
+- Consists of two steps, very similar to the candidate gene approach above
 
 #STEP 4: genome scan for excess allele frequency differentiation
+
+read more about this type of selection scan in Berner, 2019, doi:10.3390/genes10040308
+
 #STEP 5: visualization of candidate genes and SNPs
 
-- input data are the same as for part A, with exception of a single file called WGDataAF.txt. You can download the total table from my account on Metacentrum /storage/pruhonice1-ibot/home/holcovam/ScanTools/VCF_arenosa613.merged.annotated_DP4.M0.3/WGDataAF.txt (ecolgen team & associates) or contact me through e-mail 
+- input data are the same as for part A, with exception of an allele frequency table called WGDataAF.txt. You can download the total table from my account on Metacentrum /storage/pruhonice1-ibot/home/holcovam/ScanTools/VCF_arenosa613.merged.annotated_DP4.M0.3/WGDataAF.txt (ecolgen team & associates) or contact me through e-mail.
+
+
 
 
 
